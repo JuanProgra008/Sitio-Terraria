@@ -1,11 +1,11 @@
 body  {
-   background-image: url(/img/Terr-Fon.jpg);
+   background-image: url(../pages/img/Terr-Fon.jpg);
    background-repeat: no-repeat;
    background-size: cover;
-   cursor: url(/img/cursor-mec.png), auto;
+   cursor: url(../pages/img/cursor-mec.png), auto;
 }   
 a{
-    cursor: url(/img/cursor-ojo.png), auto;
+    cursor: url(../pages/img/cursor-ojo.png), auto;
 }
 h1 {
     text-align: center;
