@@ -1,13 +1,13 @@
 body  {
-    background-image: url(/img/mord-Llord-fon.jpg);
-   background-color: black;
-   background-repeat: no-repeat;
-   background-attachment: fixed;
-   background-size: cover;
-   cursor: url(/img/cursor-mec.png), auto;
+    background-image: url(../img/mord-Llord-fon.jpg);
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    cursor: url(../img/cursor-mec.png), auto;
 }   
 a{
-    cursor: url(/img/cursor-ojo.png), auto;
+    cursor: url(../img/cursor-ojo.png), auto;
 }
 h1 {
     text-align: center;
