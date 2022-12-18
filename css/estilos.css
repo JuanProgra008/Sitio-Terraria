@@ -1,0 +1,117 @@
+body  {
+   background-image: url(../img/Terr-Fon.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   cursor: url(../img/Cursor-Mec.png), auto;
+}   
+a{
+    cursor: url(../Img/Cursor-Ojo.png), auto;
+}
+h1 {
+    text-align: center;
+    color: black;
+    text-align: center;
+    font-size: 35px;
+    font-family: arial;
+}
+h3 {
+    color: black;
+    text-align: center;
+    font-size: 35px;
+    text-decoration: underline;
+    font-family: arial;
+   
+}
+h4 {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: arial;
+    text-decoration: underline;
+}
+h5 {
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    font-family: arial;
+    text-decoration: underline;
+}
+#titulo {
+    color: black;
+}
+
+p {
+    font-family:arial;
+    color: black;
+    font-size: 20px;
+}
+.titulop{
+    color: black;
+    text-align: center;
+    font-family: arial;
+    font-size: 20px;
+}
+#Tit1 {
+    color: red;
+}
+#Tit2 {
+    color: red;
+}
+#Tit3 {
+    color: red;
+}
+#Tit4 {
+    color: red;
+}
+#Tit5 {
+    color: red;
+}
+#posicion1 {
+    color: red;
+}
+#posicion2 {
+    color: red;
+}
+#posicion3 {
+    color: red;
+}
+#posicion4 {
+    color: red;
+}
+#posicion5 {
+    color: red;
+}
+#posicion6 {
+    color: red;
+}
+#detalles {
+    font-size: 25px;
+    font-family: arial;
+}
+#biom {
+    color: black;
+    font-family: arial;
+    font-size: 25;
+}
+#cosagr {
+    font-family: arial;
+    font-size: 20px;
+}
+#elements {
+    font-family: arial;
+    font-size: 15px;
+}
+#titulomod1 {
+    font-family: arial;
+    font-size: 27px;
+    text-decoration: underline;
+}
+#elements2 {
+    font-family: arial;
+    font-size: 16px;
+}
+#subtit {
+    font-family: arial;
+    font-size: 20px;
+    text-decoration: underline;
+}
